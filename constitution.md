@@ -1,5 +1,7 @@
 # CTF Club Constitution and Bylaws at The Univeristy of North Carolina at Chapel Hill
 
+The original source for this document can be found at: https://github.com/ntropy-unc/CTF-Club-Constitution
+
 ## Article 1 - Name
 **Section 1.** Title: CTF Club.
 
