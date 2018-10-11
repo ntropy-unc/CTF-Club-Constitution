@@ -9,7 +9,7 @@ The original source for this document can be found at: https://github.com/ntropy
 This organization exists to develop the hands-on technical abilities of students at UNC-CH in the field of computer security through competition. We aim to represent the University of North Carolina at Chapel Hill in high-level competition, and develop abilities that apply to careers in business, software development, and cybersecurity.
 
 ## Article IV - MEMBERSHIP
-**Section 1.** Active Members include: Gregory Sanders, Cecilia Carter, Adam Cogdell, Asjad Cyed, Alex Stewart, Samantha Salgado, Shengjie Xu, Chris Rackley, Sam Salgado, Lucas Chen, Angel Boyd, Christian Vallat, Akshay Jain.
+**Section 1.** Active Members are determined subjectively by regular attendance of meetings.
 
 **Section 2.** There are no requirements for attendance in the CTF Club, however there is a recommendation that attendees come with general interest, and a willingness to learn.  
 
@@ -24,13 +24,16 @@ This organization abides by UNC-Chapel Hill's Non-Discrimination Policy for Stud
 **Section 5.** Once a request for removal has been initiated, if the violations reported violate official UNC Chapel Hill policies, then the policies shall be reported to student administration. If the violations reported violate CTF Club policies, a meeting time shall be established either at the next available general meeting or at another time agreed upon between the initiator and the target of removal. At this meeting, those who attend may vote on determining if the target of removal had violated CTF Club policies as explained, and whether removal of the Officer or member shall occur.
 
 ## Article V - ADVISOR
-The CTF Club must have a designated faculty advisor in order to maintain official university recognition.
+The CTF Club must have and currently possesses a designated faculty advisor in order to maintain official university recognition.
 
 The advisor need not attend meetings on a regular basis, however must be in available contact with CTF Club Officers.
 
 The advisor does not have the right to vote in club elections, as per enforced by UNC-Chapel Hill and the Carolina Student Union.
 
 The CTF Club advisor must demonstrate an invested interest in either digital security or digital security education and be available for contact from CTF Club Officers.
+
+If a new advsior is needed, requests within the Computer Science Department shall be made towards faculty with interest in computer security,
+and elsewhere if needed. Once an agreeable advisor is found, an expressed agreement is necessary for them to fulfill the role.
 
 ## Article VII - MEETINGS
 **Section 1.** General meeting times are based upon the agreements of CTF Club Officers, derived from the basis of member availability and scheduling practicality. General meetings should occur on a weekly basis, barring close proximity to exam times and low availability of members.
@@ -44,7 +47,7 @@ The CTF Club advisor must demonstrate an invested interest in either digital sec
 	- President: Presidents are responsible for organizing and/or delegating the organization of meetings, presentations, and event collaborations. They also serve as administrative and political heads of the CTF Club as an organization. Presidents have no limits to the number of terms they may have, and each term lasts from their initial election until either the next election or a removal that results from policy violation.
 	- Treasurer: Treasurers are responsible for performing and/or delegating the monitoring, spending, and managing of CTF Club funds. Their terms follow the same limitations as President.
 
-**Section 3.** Officers may demonstrate qualification through explaining interest in CTF Club administration. Elections are designated to occur at first availability in the in the month of December unless otherwise agreed upon by a majority of attending CTF Club members.
+**Section 3.** Officers may demonstrate qualification through explaining interest in CTF Club administration, in addition to being full-time registered student of The University of North Carolina at Chapel Hill. Elections are designated to occur at first availability in the in the month of December unless otherwise agreed upon by a majority of attending CTF Club members. Elections follow a democratic voting model where the largest portion of votes for a candidate interested in a position places them within that position for official representation and interfacing with the University. Multiple candidates may however occupy the same position operationally, per **Article VIII, Section 1.**
 
 **Section 4.** The removal of Officers follows the same procedure as described in  Article IV, **Section 5**.
 
