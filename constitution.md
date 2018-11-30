@@ -24,7 +24,7 @@ This organization abides by UNC-Chapel Hill's Non-Discrimination Policy for Stud
 **Section 5.** Once a request for removal has been initiated, if the violations reported violate official UNC Chapel Hill policies, then the policies shall be reported to student administration. If the violations reported violate CTF Club policies, a meeting time shall be established either at the next available general meeting or at another time agreed upon between the initiator and the target of removal. At this meeting, those who attend may vote on determining if the target of removal had violated CTF Club policies as explained, and whether removal of the Officer or member shall occur.
 
 ## Article V - ADVISOR
-The CTF Club must have and currently possesses a designated faculty advisor in order to maintain official university recognition.
+The CTF Club must have and currently possesses (in Fabian Monrose) a designated advisor who is a full time faculty member of UNC-CH in order to maintain official university recognition.
 
 The advisor need not attend meetings on a regular basis, however must be in available contact with CTF Club Officers.
 
