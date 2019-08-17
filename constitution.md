@@ -11,7 +11,7 @@ This organization exists to develop the hands-on technical abilities of students
 ## Article IV - MEMBERSHIP
 **Section 1.** Active Members are determined subjectively by regular attendance of meetings.
 
-**Section 2.** There are no requirements for attendance in the CTF Club, however there is a recommendation that attendees come with general interest, and a willingness to learn.  
+**Section 2.** There are no requirements for attendance in the CTF Club, however there is a recommendation that attendees come with general interest, and a willingness to learn. Offical members must also be UNC-CH students.
 
 This organization abides by UNC-Chapel Hill's Non-Discrimination Policy for Student Organizations, which states the following:
 	- Membership and participation in the organization must be open to all students without regard to age, race, color, national origin, disability, religious status or historic religious affiliation, veteran status, sexual orientation, gender identity, or gender expression. Membership and participation in the organization must also be open without regard to gender, unless exempt under Title IX.
